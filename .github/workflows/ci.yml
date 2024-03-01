@@ -1,8 +1,12 @@
+
 name: Python application
 
 on:
   push:
-    branches: [ "main" ]
+    branches: 
+        - main
+        - feature
+        - dev
   pull_request:
     branches: [ "main" ]
 
