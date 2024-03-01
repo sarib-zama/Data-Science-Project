@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0" # update as per your need
 
-REPO_NAME = "Data Science Project"
+REPO_NAME = "Data-Science-Project"
 AUTHOR_USER_NAME = "sarib-zama"
-SRC_REPO = "Data Science Project"
+SRC_REPO = "Data-Science-Project"
 AUTHOR_EMAIL = "sarib.zama@gmail.com"
 
 setuptools.setup(
